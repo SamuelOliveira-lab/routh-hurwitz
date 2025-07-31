@@ -1,4 +1,4 @@
-📚 Conceito
+# 📚 Conceito
 O Critério de Routh-Hurwitz determina a estabilidade de um sistema sem precisar calcular explicitamente as raízes do polinômio característico. A estabilidade é garantida se não houver mudanças de sinal na primeira coluna da tabela.
 
 # 🎯 Analisador de Estabilidade com Routh-Hurwitz – MATLAB
